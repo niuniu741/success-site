@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 直击财经</title>
-    <link>https://example.org/posts/</link>
+    <link>https://niuniu741.github.io/success-site/posts/</link>
     <description>Recent content in Posts on 直击财经</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Dec 2023 23:20:12 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://niuniu741.github.io/success-site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>金融新规重磅出台</title>
-      <link>https://example.org/posts/first/</link>
+      <link>https://niuniu741.github.io/success-site/posts/first/</link>
       <pubDate>Fri, 22 Dec 2023 23:20:12 +0800</pubDate>
-      <guid>https://example.org/posts/first/</guid>
+      <guid>https://niuniu741.github.io/success-site/posts/first/</guid>
       <description>重磅金融新规：《非银行支付机构监督管理条例》将于2024年5月1日实施 近年来，我国非银行支付机构快速发展，对于活跃交易、繁荣市场有着重要作用，为助力实体经济发展和民生改善作出了积极贡献。制定专门行政法规，将非银行支付机构及其业务活动进一步纳入法治化轨道进行监管，旨在促进非银行支付行业规范健康发展，切实保护用户合法权益，更好发挥其服务实体经济、满足用户多样化支付结算需求等作用 非银行支付机构监督管理条例
 管理条例详细解读&amp;ndash;视频引用于bilibili 非银行支付机构 非银行支付机构是指在中华人民共和国境内依法设立并取得支付业务许可证，从事部分或者全部支付业务的有限责任公司或者股份有限公司。
 业务类型 （一）储值账户运营；
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>数字货币</title>
-      <link>https://example.org/posts/hhh/</link>
+      <link>https://niuniu741.github.io/success-site/posts/hhh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/hhh/</guid>
+      <guid>https://niuniu741.github.io/success-site/posts/hhh/</guid>
       <description>数字货币、虚拟货币 虚拟货币是指未打印在纸上或印在金属上的任何货币，所以它是虚拟的，只存在于虚拟世界中。2014年，欧洲银行管理局（EBA）对虚拟货币进行定义：“虚拟货币是价值的一种数字表达，其并非由中央银行或公共权威机构发行，也不一定与某一法定货币挂钩，但被自然人或法人接受用于支付手段，可以进行电子化转移、储藏或交易”。虚拟货币一般由网络运营商发行，发行数量由发行主体决定，信用保障来源于运营商品牌信用，发行数量和定价可随时变更，并且只能在某一个场景中单向流通。所以一定程度上，这一类虚拟货币更像是“玩具”。
 虚拟货币的范围最大，比特币也可以算是去中心化的虚拟货币，但和Q币、游戏点券有着本质的区别，比如不受任何中心化机构控制，可用于购买某些商品和服务，与法定货币双向兑换定等，所以比特币将比特币定义为加密（数字）货币更精准。所以有些国内证券行业的人士认为，虚拟货币仅指Q币这一类，并不包含比特币等加密（数字）货币。
 根据前央行数字货币研究所所长姚前在《中国法定数字货币原型构想》一文中的阐述，央行数字货币系统框架的核心要素为“一币，两库，三中心”。 “一币”指的是央行数字货币。

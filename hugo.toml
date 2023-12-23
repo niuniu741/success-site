@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://niuniu741.github.io/success-site/'
 languageCode = 'en-us'
 title = '直击财经'
 theme = 'ananke'
@@ -7,4 +7,4 @@ defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
-
+publishDir = "docs"
