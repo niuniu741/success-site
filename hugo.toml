@@ -1,5 +1,6 @@
 baseURL = 'https://niuniu741.github.io/success-site/'
 languageCode = 'en-us'
+publishDir = "docs"
 title = '直击财经'
 theme = 'ananke'
 [markup]
@@ -7,4 +8,3 @@ defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
-publishDir = "docs"
