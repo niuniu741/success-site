@@ -1,6 +1,8 @@
 baseURL = 'https://niuniu741.github.io/success-site/'
 languageCode = 'en-us'
 publishDir = "docs"
+hasCJKLanguage = true
+summaryLength = 30
 title = '直击财经'
 theme = 'ananke'
 [markup]
